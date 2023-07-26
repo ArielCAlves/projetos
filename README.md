@@ -22,7 +22,7 @@
  - Mantive os códigos em Python porque precisei utilizar o VSCode para testar num ambiente virtual e disponibilizar o modelo para um futura integração CI/CD (pode utilizar o Jupyter sem problemas). 
  - Para rodar os scripts precisa instalar as bibliotecas do requirements (depois de clonar o repositório execute no terminal: pip install -r requirements.txt): 
 
- ![link](https://github.com/ArielCAlves/projetos/blob/main/mercado-imobiliario/images/libraries.png)
+   [Requirements](https://github.com/ArielCAlves/projetos/blob/main/mercado-imobiliario/images/libraries.png)
  
  - Importante: os scripts precisam ser executados na seguinte ordem:
     - scripts/etl.py
