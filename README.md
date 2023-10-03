@@ -25,4 +25,10 @@
 | Utilizei dados abertos do Tesouro Nacional para prever Despesas de Custeio de Órgãos Públicos com os algoritmos Sarima e Redes Neurais LSTM (Long Short-Term Memory). A exploração inicial dos dados foi feita no notebook do Sarima, onde identifiquei as principais características antes de construir as análises que também serviram de base para construção da arquitetura da Rede Neural. | [![Link do Repositório](https://github.com/ArielCAlves/projetos/blob/main/time_series/graficos/RedesNeuraisPrevisao.png)](https://github.com/ArielCAlves/projetos/tree/main/time_series) |
 
 
+## # Pasta python-dash
+| Descrição                               | Link |
+|:------------------------------------:|:------:|
+| Utilizei a biblioteca Dash para construir um dashboard com Python. O foco foi utilizar dados de streaming da Amazon e da Netflix e responder algumas perguntas de negócios que extraí de um challenge. | [![Link do Repositório](https://github.com/ArielCAlves/projetos/blob/main/python-dash/imgs/python-dash.gif)](https://github.com/ArielCAlves/projetos/tree/main/python-dash) |
+
+
 ## - Próxima pasta em construção
