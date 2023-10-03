@@ -1,6 +1,6 @@
-# Data Challenge Coodesh e InvestPlay
-
 ## Projeto
+![Imagem](https://github.com/ArielCAlves/projetos/blob/main/python-dash/imgs/python-dash.gif)
+
  
 O projeto consistiu em processar os dados das plataformas de streaming Amazon e Netflix, permitindo a análise abrangente de informações cruciais, como os países líderes em produção, distribuição de lançamentos mensais, atores de destaque, principais gêneros e muito mais.
 
@@ -38,11 +38,3 @@ A linguagem Python foi suficiente para todo o tratamento dos dados junto com o J
 6- A frequência de "TV Show" de todos os dados e comparativamente em relação as duas plataformas
 
 7- A frequência de "Movies" de todos os dados e comparativamente em relação as duas plataformas
-
-## Referência a Coodesh
-
->  This is a challenge by [Coodesh](https://coodesh.com/)
-
-
-## Link da Apresentação:
-Adicionarei em breve
